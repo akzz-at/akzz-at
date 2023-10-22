@@ -1,14 +1,14 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/deepanshu-byte">Deepanshu Pandey</a>'s Profile 👋</h1>
+  <h1 align="center">Welcome to <a href="https://github.com/akzz-at">Akshat Dadhich's</a>'s Profile 👋</h1>
 </p>
 <p>I'm a Programmer, I'm a Software Developer, I also like to create projects in different languages.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
-  <li>👋 Hi, I’m Deepanshu Pandey</li>
+  <li>👋 Hi, I’m Akshat Dadhich</li>
   <li>❤️ I’m interested in mostly everything when it comes to computer.</li>
   <li>🌱 I’m currently learning few exsiting and exciting things.</li>
   <li>💼 I'm a 4th year student at VIT</li>
-  <li>📫 How to Reach me, Deepanshupandey.pc@gmail.com </li>  
+  <li>📫 How to Reach me, akshatt.dadhich@gmail.com </li>  
 </ul>
 
 ## My skills :
@@ -35,21 +35,21 @@
 
   ## My Works :
 
- <p href="https://github.com/deepanshu-byte/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepanshu-byte&theme=tokyonight&show_icons=true&include_all_commits=true" />
+ <p href="https://github.com/akzz-at/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepanshu-akzz-at&theme=tokyonight&show_icons=true&include_all_commits=true" />
 </p>
   <p align = "center">
-  <img height= "160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-byte&theme=tokyonight&layout=compact" />
+  <img height= "160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akzz-at&theme=tokyonight&layout=compact" />
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/deepanshu-byte/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=deepanshu-byte">
+<a href="https://github.com/akzz-at/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=akzz-at">
 </a>
- <a href="https://github.com/deepanshu-byte?tab=followers"><img src="https://img.shields.io/github/followers/deepanshu-byte?label=Followers&style=social" alt="GitHub Badge"></a>
+ <a href="https://github.com/akzz-at?tab=followers"><img src="https://img.shields.io/github/followers/akzz-at?label=Followers&style=social" alt="GitHub Badge"></a>
   
 
 ------
 
 
-[Deepanshu Pandey](https://github.com/deepanshu-byte)
+[Akshat Dadhich](https://github.com/akzz-at)
